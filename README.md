@@ -1,1 +1,2 @@
-Covered every concept of Pandas with solved examples and explainations.
+Covered every topic of Pandas library with solved examples and explainations.
+Easy to understand.
